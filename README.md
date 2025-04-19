@@ -41,8 +41,3 @@
 - 📧 vasavisainunna@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/vasavisainunna)  
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark" alt="Vasavi's GitHub stats" />
-</p>
