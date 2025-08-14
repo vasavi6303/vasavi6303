@@ -2,7 +2,7 @@
 🚨 Some people fear deployment day.  
 🔥 I live for it.
 
-👩‍💻 I’m Vasavi — DevOps Engineer, Cloud Enthusiast, and CI/CD Automation Fanatic.  
+👩‍💻 I’m Vasavi — MLOPs Engineer, DevOps Engineer, Cloud Enthusiast, and CI/CD Automation Fanatic.  
 🚀 I help teams ship faster, safer, and smarter.
 
 ---
